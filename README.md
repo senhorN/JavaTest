@@ -1,5 +1,3 @@
 # JavaTest
 
-#
-
 #### testando ambiente Java 
